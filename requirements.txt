@@ -1,7 +1,0 @@
-pytest
-pylint
-requests
-flask
-psycopg2-binary
-python-dotenv
-rich
